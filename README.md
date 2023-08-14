@@ -1,4 +1,6 @@
-#MyPrintf - Custom Implementation of printf()
+# MyPrintf - Custom Implementation of printf()
+
+---
 
 MyPrintf is a simple custom implementation of the `printf()` function in C programming language. The `printf()` function is a standard library function used to print formatted output to the console. This project aims to provide a basic version of the `printf()` function, allowing users to print formatted text to the console using a subset of format specifiers.
 
